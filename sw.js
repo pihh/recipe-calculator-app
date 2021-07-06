@@ -40,7 +40,7 @@ const staticAssets = [
 
 
 const preffix = 'flex-diet';
-const version = '1.0.0';
+const version = Date.now();
 const db = preffix + ':' + version + ':';
 
 // ADD STUFF TO CACHE ON INSTALATION
